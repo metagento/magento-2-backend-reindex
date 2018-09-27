@@ -15,4 +15,4 @@ php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```
 
-Any question, please contact us https://www.metagento.com/
+Any question, please contact us https://www.metagento.com/magento-2-backend-reindex.html
